@@ -13,7 +13,7 @@
 ### Hooks and Filters
 ### Settings API
 ### Options API
-## WP Rest APIa
+## WP Rest API
 ### jQuery/Javascript
 ### HTTPS
 ### Postmane
